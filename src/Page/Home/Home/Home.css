@@ -1,0 +1,6 @@
+.background{
+    background-image: url('../../../Assests/bg.png');
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
